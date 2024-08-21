@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d4b9ee-2ec6-4f6d-93c7-445fee4d820f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IF_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeCasting.java" afterDir="false" />
-    </list>
+    <list default="true" id="c3d4b9ee-2ec6-4f6d-93c7-445fee4d820f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724167585756</updated>
       <workItem from="1724167586961" duration="4466000" />
+      <workItem from="1724211807675" duration="316000" />
     </task>
     <servers />
   </component>
