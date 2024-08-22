@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d4b9ee-2ec6-4f6d-93c7-445fee4d820f" name="Changes" comment="" />
+    <list default="true" id="c3d4b9ee-2ec6-4f6d-93c7-445fee4d820f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/StringExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,29 +32,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IFExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IF_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/yubraj.khadka/Desktop/BasicJava/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DataType.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.IFExample.executor": "Run",
+    "Application.IF_Example.executor": "Run",
+    "Application.StringExample1.executor": "Run",
+    "Application.StringPractice.executor": "Run",
+    "Application.SwitchExample.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "day2",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/yubraj.khadka/Desktop/BasicJava/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.StringExample1">
+    <configuration name="StringExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExample1" />
+      <module name="BasicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwitchExample" />
       <module name="BasicJava" />
@@ -61,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringExample1" />
         <item itemvalue="Application.SwitchExample" />
       </list>
     </recent_temporary>
@@ -83,6 +95,8 @@
       <updated>1724167585756</updated>
       <workItem from="1724167586961" duration="4466000" />
       <workItem from="1724211807675" duration="316000" />
+      <workItem from="1724233356734" duration="2066000" />
+      <workItem from="1724296850488" duration="1236000" />
     </task>
     <servers />
   </component>
